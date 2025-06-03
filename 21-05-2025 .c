@@ -7,6 +7,7 @@ struct data{
     char name[30];
 };
 
+//define
 struct data data[100];
 //function list
 void addData();
