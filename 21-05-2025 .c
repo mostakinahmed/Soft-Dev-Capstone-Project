@@ -26,6 +26,7 @@ void addData(){
     fgets(sName,sizeof(sName), stdin);
 
 
+    //aaa
     data[inx].id=sId;
    // data[inx].name=sName;
     strcpy(data[inx].name, sName);
